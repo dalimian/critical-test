@@ -1,0 +1,7 @@
+{
+  "name": "critical-test",
+  "version": "0.2.0",
+  "dependencies": {
+    "critical": "^1.2.2"
+  }
+}
