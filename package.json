@@ -2,6 +2,7 @@
   "name": "critical-test",
   "version": "0.2.0",
   "dependencies": {
-    "critical": "^1.2.2"
+    "critical": "^1.2.2",
+    "penthouse": "^1.4.1"
   }
 }
